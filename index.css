@@ -1,1 +1,9 @@
+// tag 선택자 
+// id 선택자 - 중복지정 불가
+// class 선택자 - 중복지정 가능
+#id {
+ font-size ~
+}
+.class{
 
+}
